@@ -1,7 +1,9 @@
 # 👷 `workerd`, Cloudflare's JavaScript/Wasm Runtime
 
 ![Banner](/docs/assets/banner.png)
+
 [![Build & Release](https://github.com/etchsh/workerd/actions/workflows/release.yml/badge.svg?branch=etch)](https://github.com/etchsh/workerd/actions/workflows/release.yml)
+
 `workerd` (pronounced: "worker-dee") is a JavaScript / Wasm server runtime based on the same code that powers [Cloudflare Workers](https://workers.dev).
 
 You might use it:
