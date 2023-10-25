@@ -3,7 +3,7 @@ name: Build & Release
 on:
   push:
     branches:
-    - etcch
+    - etch
 
 jobs:
   version:
